@@ -1,4 +1,8 @@
 _repo: A-Select-Collection-of-Old-English-Plays-Volume-15_49180
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49180-h/images/cover.jpg
 creator:
   author:
     agent_name: Dodsley, Robert
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26524
     wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49180#A-Select-Collection-of-Old-English-Plays-Volume-15
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
